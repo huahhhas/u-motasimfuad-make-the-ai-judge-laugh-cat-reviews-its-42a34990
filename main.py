@@ -8,7 +8,7 @@ with no trailing newline, then self-verifies the written file.
 import hashlib
 import os
 
-LINE = "One star. He moved the couch and now my sunbeam lands on the rug. I have filed a formal complaint with the sun. It has not responded."
+LINE = "One star. He moved the couch and now my sunbeam lands on the rug. I filed a formal complaint with the sun. The sun has not responded, and neither has he."
 
 
 def main():
